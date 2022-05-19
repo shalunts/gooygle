@@ -1,1 +1,1 @@
-SImple Google clone website using React JS and Tailwind CSS and Google search API
+SImple Google clone website using React JS, Tailwind CSS and Google search API
